@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "178587857380",
+    "firebase_url": "https://chatfirebase2-7262e.firebaseio.com",
+    "project_id": "chatfirebase2-7262e",
+    "storage_bucket": "chatfirebase2-7262e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178587857380:android:a0c5aa95c9d56622",
+        "android_client_info": {
+          "package_name": "com.henallux.chatfirebase2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178587857380-lo60rthr6qkh0ib9kr5fgfl0srqmobgn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT4nbl8I0qrF8vlqlEJccupsRnD6O0MBA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
